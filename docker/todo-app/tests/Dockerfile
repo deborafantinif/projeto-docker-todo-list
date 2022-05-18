@@ -4,6 +4,6 @@ WORKDIR /tests
 
 ADD node_modules.tar.gz .
 
-COPY . . /tests/
+COPY . .
 
 ENTRYPOINT [ "npm", "test" ]
