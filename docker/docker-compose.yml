@@ -19,3 +19,6 @@ services:
     environment:
       - FRONT_HOST=todofront
       - FRONT_PORT=3000
+    networks:
+      - todoback
+      - todofront
