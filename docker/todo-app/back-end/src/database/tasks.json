@@ -1,12 +1,47 @@
 [
   {
-    "id": "2325a91c-4fef-4651-b859-44d1d904f5d2",
-    "description": "Estudar os conteúdos de Docker da Trybe",
-    "check": true
+    "id": "2d4b57b2-1b0b-4633-8599-25811253e8a4",
+    "description": "Deus",
+    "check": false
   },
   {
-    "id": "da81663e-faad-4b17-8774-180e173410a1",
-    "description": "Resolver o projeto Docker Todo List",
+    "id": "7fc21303-ab5b-4b85-a19e-f332f0aaba34",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "cf2bdc29-1426-4d02-802f-60e5ecf48a1f",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "8109f6eb-af95-4502-b180-c7a3c9621bfd",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "48a58ca9-3064-4332-96f9-65ced0d2f84e",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "919b1695-b18a-486c-b28f-f3aa286b9f85",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "0900d386-f01c-47cf-a792-01cbd2eb0d05",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "4547cff0-58cb-4be7-be13-18dd36a83838",
+    "description": "Deus",
+    "check": false
+  },
+  {
+    "id": "ca753c33-bde3-463d-a590-40b741eed289",
+    "description": "Deus",
     "check": false
   }
 ]
